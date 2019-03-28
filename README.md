@@ -1,2 +1,2 @@
-# uva-problem-solving
-sources repository practice problem solving and algorithm
+#uva-problem-solving
+Sources repository practice problem solving and algorithm
